@@ -12,3 +12,5 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 |----|-----------------------------------|-----------------|
 | 01 | [Estatística](https://github.com/RickBamberg/Estatistica) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Churn / Teste de Hipótese](https://github.com/RickBamberg/Estatistica/tree/main/Projeto_Churm) | ✅ Finalizado | 
+| 02 | [Machine Learning](https://github.com/RickBamberg/Machine_Learning) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Sistema de Recomendação de Vendas](https://github.com/RickBamberg/Sistema_de_Recomendacao_de_Venda) | ✅ Finalizado | 
