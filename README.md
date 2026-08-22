@@ -15,3 +15,7 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 | 02 | [Machine Learning](https://github.com/RickBamberg/Machine_Learning) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Sistema de Recomendação de Vendas](https://github.com/RickBamberg/Sistema_de_Recomendacao_de_Venda) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [H&M - Sistema de Recomendação (Local)](https://github.com/RickBamberg/hm_recomendacao_local) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Desempenho dos Alunos](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Desempenho_dos_Alunos) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Detecção de Fraudes](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Deteccao_Fraudes) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Diabetes](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Diabetes) | ✅ Finalizado | 
+
