@@ -11,4 +11,4 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 | Nº | Módulo                            | Status          |
 |----|-----------------------------------|-----------------|
 | 01 | [Estatística](https://github.com/RickBamberg/Estatistica) | ✅ Finalizado | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Churn / Teste de Hipótese](https://github.com/RickBamberg/Estatistica/Projeto_Churm) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Churn / Teste de Hipótese](https://github.com/RickBamberg/Estatistica/tree/main/Projeto_Churm) | ✅ Finalizado | 
