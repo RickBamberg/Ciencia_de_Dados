@@ -11,11 +11,14 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 | Nº | Módulo                            | Status          |
 |----|-----------------------------------|-----------------|
 | 01 | [Estatística](https://github.com/RickBamberg/Estatistica) | ✅ Finalizado | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Churn / Teste de Hipótese](https://github.com/RickBamberg/Estatistica/tree/main/Projeto_Churm) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Churn / Teste de Hipótese](https://github.com/RickBamberg/Estatistica/tree/main/Projeto_Churm)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Churm` · `Streamlit` · `LLM` | ✅ Finalizado | 
 | 02 | [Machine Learning](https://github.com/RickBamberg/Machine_Learning) | ✅ Finalizado | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Sistema de Recomendação de Vendas](https://github.com/RickBamberg/Sistema_de_Recomendacao_de_Venda) | ✅ Finalizado | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [H&M - Sistema de Recomendação (Local)](https://github.com/RickBamberg/hm_recomendacao_local) | ✅ Finalizado | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Desempenho dos Alunos](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Desempenho_dos_Alunos) | ✅ Finalizado | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Detecção de Fraudes](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Deteccao_Fraudes) | ✅ Finalizado | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Diabetes](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Diabetes) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Sistema de Recomendação de Vendas](https://github.com/RickBamberg/Sistema_de_Recomendacao_de_Venda)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Recommender System` · `PySpark` · `Databricks` · `LLM` | ✅ Finalizado |
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [H&M - Sistema de Recomendação (Local)](https://github.com/RickBamberg/hm_recomendacao_local)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Recommender System` · `Pandas` · `Streamlit` · `LLM` | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Desempenho dos Alunos](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Desempenho_dos_Alunos)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Classification` · `Feature Engineering` · `Model Evaluation`· `seaborn` · `shap` | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Detecção de Fraudes](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Deteccao_Fraudes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Classification` · `Feature Engineering` · `Model Evaluation` | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Diabetes](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Diabetes)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Classification` · `Feature Engineering` · `Model Evaluation` | ✅ Finalizado | 
+| 03 | [NLP / Machine Learning](https://github.com/RickBamberg/Machine_Learning) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Analise de Feedback](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos/Analise_de_Feedback) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Sistema de Busca Inteligente para FAQs](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos/Sistema_de_Busca_Inteligente_para_FAQs) | ✅ Finalizado | 
 
