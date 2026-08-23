@@ -26,9 +26,13 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 | 05 | [Marketing Analytics](https://github.com/RickBamberg/Marketing_Analytics) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Marketing Mix Modeling](https://github.com/RickBamberg/Marketing_Mix_Modeling)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Statistics` · `Marketing Analytics` · `Optimization` · `LLM` | ✅ Finalizado | 
 | 06 | [MLOps e Implantação](https://github.com/RickBamberg/MLOps) | ✅ Finalizado |
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Deteccao Fraudes MLOps](https://github.com/RickBamberg/EAI_08_MLOps_e_Implantacao/tree/main/Deteccao_Fraudes_MLOps)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Feature Engineering` · `MLflow` · `Docker` · `Monitoring` · `Drift` · `LLM` | ✅ Finalizado | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Diabetes MLOps](https://github.com/RickBamberg/EAI_08_MLOps_e_Implantacao/tree/main/Diabetes_MLOps)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Feature Engineering` · `MLflow` · `Docker` · `Monitoring` · `Drift` | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Deteccao Fraudes MLOps](https://github.com/RickBamberg/EAI_08_MLOps_e_Implantacao/tree/main/Deteccao_Fraudes_MLOps)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Feature Engineering` · `MLflow` · `Docker` · `Monitoring` · `Drift` · `LLM` | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Diabetes MLOps](https://github.com/RickBamberg/EAI_08_MLOps_e_Implantacao/tree/main/Diabetes_MLOps)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Feature Engineering` · `Feature Engineering` · `MLflow` · `Docker` · `Monitoring` · `Drift` | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Sistema de Recomendação de Vendas](https://github.com/RickBamberg/Sistema_de_Recomendacao_de_Venda)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Recommender System` · `PySpark` · `Databricks`· `Monitoring` · `LLM` | ✅ Finalizado |
+| 07 | [Databricks Engineering](https://github.com/RickBamberg/Databricks) | ✅ Finalizado |
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Pipeline de Engenharia de Dados com PySpark](https://github.com/RickBamberg/Pipeline_de_Engenharia_de_Dados_com_Databricks_e_PySpark)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` ·`Medallion Architecture` · `PySpark` · `Delta Lake` · `Data Engineering` · `MLOps` · `LLM` | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [H&M Sistema de Recomendação com PySpark](https://github.com/RickBamberg/Pipeline_de_Engenharia_de_Dados_com_Databricks_e_PySpark)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` ·`Medallion Architecture` · `PySpark` · `Delta Lake` · `Data Engineering` · `MLOps` · `LLM` | ✅ Finalizado | 
+
 
 
 
