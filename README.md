@@ -11,7 +11,7 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 | Nº | Módulo                            | Status          |
 |----|-----------------------------------|-----------------|
 | 01 | [Estatística](https://github.com/RickBamberg/Estatistica) | ✅ Concluído | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Churn / Teste de Hipótese Bancos](https://github.com/RickBamberg/Estatistica/tree/main/Projeto_Churm)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Statistics`· `Hypothesis Testing` · `Churm` · `Streamlit` · `LLM` | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Churn / Teste de Hipótese Bancos](https://github.com/RickBamberg/Estatistica/tree/main/Projeto_Churn)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Statistics`· `Hypothesis Testing` · `Churm` · `Streamlit` · `LLM` | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Home Credit Default Risk](https://github.com/RickBamberg/Estatistica/tree/main/home-credit-default-risk)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Statistics`· `Hypothesis Testing` · `Churm` · `Streamlit` · `LLM` | ✅ Concluído | 
 | 02 | [Machine Learning](https://github.com/RickBamberg/Machine_Learning) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [H&M - Sistema de Recomendação (Local)](https://github.com/RickBamberg/hm_recomendacao_local)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Machine Learning` · `Recommender System` · `Pandas` · `Streamlit` · `LLM` | ✅ Concluído | 
